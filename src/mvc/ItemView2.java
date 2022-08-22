@@ -29,7 +29,7 @@ public class ItemView2 {
             JPanel p2 = new JPanel();
             p2.setBounds(30, 100, 300,300);
             c.add(p2);
-            ImageIcon image = new ImageIcon("C://Users//yousaf//Pictures//watch2.jpg");
+            ImageIcon image = new ImageIcon("C://Users//Pictures//watch2.jpg");
             JLabel l2 = new JLabel(image);
             p2.add(l2);
             frame.add(p2);
@@ -42,7 +42,7 @@ public class ItemView2 {
             JPanel p3 = new JPanel();
             p3.setBounds(450,100,300,500);
             c.add(p3);
-            ImageIcon image2 = new ImageIcon("C://Users//yousaf//Pictures//w.jpg");
+            ImageIcon image2 = new ImageIcon("C://Users//Pictures//w.jpg");
             JLabel l3 = new JLabel(image2);
             p3.add(l3);
             frame.add(p3);
